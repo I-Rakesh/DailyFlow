@@ -1,4 +1,4 @@
-# Habit Tracker
+# Daily Flow
 
 ![website demo](https://github.com/user-attachments/assets/2c98b081-1a73-430a-8335-749fcd09d106)
 Live Website Deployment (Github Pages): https://keremsemiz.github.io/habit-tracker/
